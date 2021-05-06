@@ -1,4 +1,4 @@
-# About me
+# ➡ About me
 
 - 👋 Hi, I’m @TheBoloss
 - 👀 I’m interested in web dev
