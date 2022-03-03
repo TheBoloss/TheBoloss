@@ -12,6 +12,8 @@
   - C
   - Python
 
+## *Currently learning ⚛️ **React***
+
 ## 🌐 My website: ✨https://vlte.eu✨
 
 <!---
