@@ -1,10 +1,18 @@
 # ➡ About me
 
-- 👋 Hi, I’m @TheBoloss
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning PHP
+## 👋 Hi, I’m @TheBoloss
+### 👀 I’m interested in **Programming**, specifically in **Web Dev**.
+### 📃 Languages in which I code:
+- **🕸️ Web**
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+- **⌨️ Programming**
+  - C
+  - Python
 
-## 🌐 My website: https://vlte.eu
+## 🌐 My website: ✨https://vlte.eu✨
 
 <!---
 TheBoloss/TheBoloss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
