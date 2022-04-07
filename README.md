@@ -1,7 +1,9 @@
 # ➡ About me
-
+---
 ## 👋 Hi, I’m @TheBoloss
+
 ### 👀 I’m interested in **Programming**, specifically in **Web Dev**.
+
 ### 📃 Languages in which I code:
 - **🕸️ Web**
   - HTML
@@ -12,7 +14,9 @@
   - C
   - Python
 
-## *Currently learning ⚛️ **React***
+### My projects:
+- 🦖 Diplo
+- 🤖 [TiboBot](https://app.vlte.eu)
 
 ## 🌐 My website: ✨https://vlte.eu✨
 
