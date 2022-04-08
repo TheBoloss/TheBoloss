@@ -14,9 +14,11 @@
   - C
   - Python
 
-### My projects:
-- 🦖 Diplo
-- 🤖 [TiboBot](https://app.vlte.eu)
+# My projects:
+- ## 🦖 Diplo
+  *Coming soon*
+- ## 🤖 [TiboBot](https://app.vlte.eu)
+  A little Chatbot
 
 ## 🌐 My website: ✨https://vlte.eu✨
 
