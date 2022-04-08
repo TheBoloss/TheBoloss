@@ -15,7 +15,7 @@
   - Python
 
 # My projects:
-- ## 🦖 Diplo
+- ## 🦕 Diplo
   *Coming soon*
 - ## 🤖 [TiboBot](https://app.vlte.eu)
   A little Chatbot
