@@ -4,17 +4,13 @@
 ---
 ## 👋 Hi, I’m @TheBoloss
 
-### 👀 I’m interested in **Programming**, specifically in **Software Development**.
+***Passionate 18 yo full-stack and software developer***
 
-### 📃 Languages
-- **⌨️ Programming**
-  - C
-  - C++
-  - Python
-- **🕸️ Web**
-  - HTML
-  - CSS
-  - JavaScript
-  - PHP
+## 🌐 My website:  [villotte.com](https:/villotte.com)
 
-## 🌐 My website: ✨ https://vlte.eu ✨
+### Technologies I use
+- HTML / CSS
+- JavaScript
+- PHP
+- **React**
+- **Symfony**
